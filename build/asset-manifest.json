@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dphi-Assignment/static/css/main.3fe4cae5.css",
+    "main.js": "/Dphi-Assignment/static/js/main.0451425a.js",
+    "static/media/rocket.png": "/Dphi-Assignment/static/media/rocket.a9468022df85d970e61b.png",
+    "index.html": "/Dphi-Assignment/index.html",
+    "main.3fe4cae5.css.map": "/Dphi-Assignment/static/css/main.3fe4cae5.css.map",
+    "main.0451425a.js.map": "/Dphi-Assignment/static/js/main.0451425a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe4cae5.css",
+    "static/js/main.0451425a.js"
+  ]
+}

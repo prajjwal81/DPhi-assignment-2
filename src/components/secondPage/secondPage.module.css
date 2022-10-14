@@ -1,0 +1,19 @@
+.wholePage{
+width: 1439px;
+height: 902px;
+left: 108px;
+top: 914px;
+background: white;
+}
+.heading{
+padding-top: 120px;
+text-align: center;
+font-size: xxx-large;
+
+}
+.greenHeading{
+    padding-top: 120px;
+    text-align: center;
+    font-size: xxx-large;
+    color: #0fa958;  
+}

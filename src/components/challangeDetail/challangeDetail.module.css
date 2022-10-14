@@ -1,0 +1,91 @@
+.mainDiv {
+  background: white;
+  min-height: 100vw;
+}
+
+.challangeDetail {
+  width: auto;
+  height: 87px;
+  margin-left: 6px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  background: #f8f9fd;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+.heading {
+  margin-left: 52px;
+}
+.formDiv {
+  padding-left: 59px;
+}
+.boxBelowTheAttributes {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 453px;
+  height: 39px;
+  margin: 4px;
+
+  border: 1px solid #b7b7b7;
+  border-radius: 5px;
+}
+.boxOfDescription {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 817px;
+  height: 252px;
+
+  border: 1px solid #b7b7b7;
+  border-radius: 5px;
+}
+.boxOfImage {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 297px;
+  height: 218px;
+
+  background: #f8f9fd;
+  border: 1px solid #f8f9fd;
+  border-radius: 10px;
+  padding: 10px;
+}
+.imageChangeName {
+  height: 17px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 17px;
+  color: #44924c;
+  margin-top: 20px;
+  margin-left: 2px;
+}
+.textInsideTHeBox {
+  display: flex;
+  justify-content: center;
+  margin-left: -128px;
+  padding-top: 5px;
+}
+
+.textInsideTHeBoxOfDates {
+  display: flex;
+  justify-content: center;
+  margin-left: -254px;
+  padding-top: 5px;
+}
+
+.textInsideTHeBoxOfLevel {
+  display: flex;
+  justify-content: center;
+  margin-left: -365px;
+  padding-top: 5px;
+}

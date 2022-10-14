@@ -1,0 +1,152 @@
+.card {
+  margin-right: 130px;
+  margin-left: 160px;
+  margin-top: 80px;
+  display: inline-block;
+  justify-content: space-between;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo1 {
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.arrowLogo {
+  position: absolute;
+  left: 3.5%;
+  right: 18.75%;
+  top: 13.25%;
+  bottom: 9.38%;
+}
+.fontstyle {
+  font-size: 24px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: -0.03em;
+  color: #000000;
+}
+.textstyle {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+}
+
+.squareOfThirdLogo {
+  position: absolute;
+  border: 2px solid #0fa958;
+  height: 29.375px;
+  width: 35.25px;
+  border-radius: 8px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.eyeOfThirdLogo {
+  height: 4.40625px;
+  width: 4.40625px;
+  position: absolute;
+  margin-left: 27px;
+  margin-top: 38px;
+  border-radius: 3px;
+  background: #0fa958;
+}
+.SecondEyeOfThirdLogo {
+  height: 4.40625px;
+  width: 4.40625px;
+  position: absolute;
+  margin-left: 42px;
+  margin-top: 38px;
+  border-radius: 3px;
+  background: #0fa958;
+}
+.mouthOfLogo {
+  height: 7.34375px;
+  width: 20.5625px;
+  border-radius: 10px;
+  position: absolute;
+  border: 2px solid #0fa958;
+  left: 27px;
+  top: 47px;
+}
+.teethOfLogo {
+  height: 7.34375px;
+  border-radius: 3px;
+  position: absolute;
+  left: 33px;
+  top: 47px;
+  border: 1px solid #0fa958;
+  background: #0fa958;
+}
+.SteethOfLogo {
+  height: 7.34375px;
+  border-radius: 3px;
+  position: absolute;
+  left: 40px;
+  top: 47px;
+  border: 0.75px solid #0fa958;
+  background: #0fa958;
+}
+.hornOfLogo {
+  height: 9.34375px;
+  border-radius: 3px;
+  position: absolute;
+  border: 1px solid #0fa958;
+  left: 36px;
+  top: 22px;
+  background: #0fa958;
+}
+
+.squareOfFourthLogo {
+  position: absolute;
+  border: 2px solid #0fa958;
+  height: 29.375px;
+  width: 35.25px;
+  border-radius: 8px;
+  margin-left: 20px;
+    margin-top: 30px;
+}
+.headOfFourthLogo{
+  height: 10.3125px;
+width: 10.3125px;
+position: absolute;
+border: 2px solid #0FA958;
+border-radius: 10px;
+left: 26px;
+top: 38px;
+
+}
+.arcOfFourthLogo{
+  position: absolute;
+color: #0FA958;
+left: 25px;
+top: 40px;
+font-weight: bolder;
+}
+
+.lineOfFourthLogo{
+position: absolute;
+height: 0px;
+width: 9.59375px;
+border-radius: 5px;
+border: 1px solid #0FA958;
+background: #0FA958;
+left: 40px;
+    top: 47px;
+}
+.line2OfFourthLogo{
+  position: absolute;
+  height: 0px;
+  width: 9.59375px;
+  border-radius: 5px;
+  border: 1.5px solid #0FA958;
+  background: #0FA958;
+  left: 40px;
+      top: 41px;
+  }

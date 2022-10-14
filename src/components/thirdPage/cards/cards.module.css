@@ -1,0 +1,111 @@
+.cardDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 211px;
+    padding-right: 208px;
+    padding-top: 146px;
+
+}
+
+.btn {
+  margin-top: 8px;
+  margin-left: 57px;
+}
+.c{
+    position: absolute;
+left: 28.93%;
+transform: rotate(321deg);
+top: 353px;
+}
+
+.headingInYellowBox {
+  position: absolute;
+  width: 87px;
+  height: 21px;
+  left: 104px;
+  top: 173px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+
+  text-align: center;
+  color: #000000;
+  background: rgba(242, 201, 76, 0.25);
+  border-radius: 5px;
+}
+.heading {
+  margin-top: 26px;
+  margin-bottom: 1rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  width: 217px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left: 20px;
+  color: #000000;
+}
+.subheading{
+    position: absolute;
+width: 142px;
+height: 13px;
+top: 264px;
+left: 72px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 14px;
+text-align: center;
+color: #444444;
+}
+.timer{
+    position: absolute;
+height: 29.92px;
+left: 96px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+color: #454545;
+}
+.cal{
+    position: absolute;
+
+
+left: 96px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 10px;
+/* identical to box height, or 100% */
+
+text-align: center;
+
+/* Gray 2 */
+
+color: #4F4F4F;
+}
+.dateAndTime{
+    position: absolute;
+    width: 206px;
+    height: 30px;
+    left: 58px;
+    top: 290px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #454545;
+}
